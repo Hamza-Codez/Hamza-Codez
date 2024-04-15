@@ -3,7 +3,7 @@
 I'm a CS student with a passion for coding and a focus on front-end development. Here's a brief overview:
 
 ## About Me
-- 💻 Front-end enthusiast exploring HTML, CSS, and JavaScript.
+- 💻 Front-end enthusiast exploring HTML, CSS, and Vinella JavaScript.
 - 🌱 Currently learning and practicing to enhance my skills.
 - 🎓 Committed to continuous learning and improvement.
 
