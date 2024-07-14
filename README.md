@@ -15,8 +15,5 @@ I'm a CS student with a passion for coding and a focus on front-end development.
 ## Let's Connect
 - 📫 Reach out for collaborations or to share insights.
 - 💬 Connect with me via [ha01257890@gmail.com].
-
-## Let's Code Together
-- 🌟 Join me on this journey of coding exploration and improvement!
-
-Feel free to explore my projects and reach out for any queries or collaborations. Let's build something awesome together! 🚀
+## Git Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Codez&show_icons=true&theme=radical)
