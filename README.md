@@ -17,5 +17,4 @@ I'm a CS student with a passion for coding and a focus on front-end development.
 - 💬 Connect with me via [ha01257890@gmail.com].
 ## Git Stats:
 [![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Codez)](https://github.com/Hamza-Codez/github-readme-stats)
-##
-[![Hamza's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hamza-Codez)](https://github.com/Hamza-Codez/github-readme-stats)
+
