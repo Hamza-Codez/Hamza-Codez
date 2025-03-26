@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on front-end web development projects using HTML, CSS, JavaScript, and GitHub.<br>👯 I’m looking to collaborate on web development projects and open-source contributions.<br>🤝 I’m looking for help with advanced JavaScript and React development.<br>🌱 I’m currently learning TypeScript and React.<br>💬 Ask me about HTML, CSS, JavaScript, and GitHub.<br>⚡ Fun fact: I started as a freelance writer, which honed my attention to detail and communication skills.
+🔭 I’m currently working on front-end web development projects using React Js, Tailwind CSS, Javascript & Typecript and GitHub.<br>👯 I’m looking to collaborate on web development projects and open-source contributions.<br>🤝 I’m looking for help with advanced JavaScript and React development.<br>🌱 I’m currently learning TypeScript and React.<br>💬 Ask me about HTML, CSS, JavaScript, and GitHub.<br>⚡ Fun fact: I started as a freelance writer, which honed my attention to detail and communication skills.
 
 
 ## 🌐 Socials:
