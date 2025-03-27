@@ -94,18 +94,6 @@ Hello, I am **Hamza Ahmad**, a junior **full stack software engineer** based in 
 </table>
 
 
-## 🔥 Streak
-
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-Codez&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
-
-<!-- <details>
-<summary> <h2>🔥 Streak</h2> </summary>
-
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-Codez&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=3B82F6&sideLabels=2563EB&currStreakNum=3B82F6&ring=3B82F6&currStreakLabel=2563EB&sideNums=3B82F6" />
-
-</details> -->
-
-##
 
 
 
