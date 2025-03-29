@@ -94,7 +94,7 @@ Hello, I am **Hamza Ahmad**, a junior **full stack software engineer** based in 
 </table>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Codez&theme=tokyonight)
+[![Mohammad Hamza Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Hamza-Codez&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Hamza-Codez)
 
 
 
