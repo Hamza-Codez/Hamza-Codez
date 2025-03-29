@@ -95,6 +95,9 @@ Hello, I am **Hamza Ahmad**, a junior **full stack software engineer** based in 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Codez&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Codez&layout=donut-vertical)](https://github.com/Hamza-Codez/github-readme-stats)
+
+
 
 
 
