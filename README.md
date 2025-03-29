@@ -93,6 +93,7 @@ Hello, I am **Hamza Ahmad**, a junior **full stack software engineer** based in 
 </tr>
 </table>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Codez&show_icons=true&theme=transparent)
 
 
 
