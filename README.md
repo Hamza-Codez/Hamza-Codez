@@ -12,7 +12,7 @@ Hello, I am **Hamza Ahmad**, a junior **full stack software engineer** based in 
 
 ## 
 
-🧠 Currently learning [**TypeScript**](https://www.typescriptlang.org/)
+🧠 Currently learning [**Agentic AI**](https://www.typescriptlang.org/)
 
 🔭 Currently exploring [**Open/ui**](https://github.com/open-webui#building-the-best-open-source-ai-user-interface).
 
